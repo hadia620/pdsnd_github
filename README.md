@@ -5,7 +5,7 @@
 Bikeshare analysis
 
 ### Description
-Describe what your project is about and what it does
+Python script to analyse bikeshare data for three US cities
 
 ### Files used
 Include the files used
